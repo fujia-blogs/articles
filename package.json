@@ -1,0 +1,36 @@
+{
+  "name": "articles",
+  "version": "1.0.0",
+  "description": "Some notes on life, work and living.",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fujia-blogs/articles.git"
+  },
+  "keywords": [
+    "blogs",
+    "fujia"
+  ],
+  "author": {
+    "email": "fujia.site@outlook.com",
+    "name": "fujia",
+    "url": "https://fujia.site"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fujia-blogs/articles/issues"
+  },
+  "homepage": "https://github.com/fujia-blogs/articles#readme",
+  "devDependencies": {
+    "@commitlint/config-conventional": "^15.0.0",
+    "commitlint": "^15.0.0",
+    "husky": "^7.0.4"
+  }
+}
