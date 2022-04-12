@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/fujia-blogs/articles.git" target="_blank">
-    <img alt="fujia articles" width="200" src="https://github.com/fujia-blogs/articles/blob/main/stage-ci/assets/stage.svg"/>
+  <a href="https://github.com/fujia-blogs/nodejs" target="_blank">
+    <img alt="fujia nodejs" width="200" src="https://github.com/fujia-blogs/articles/blob/main/assets/write.svg"/>
   </a>
 </div>
 
